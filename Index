@@ -1,0 +1,24 @@
+<!DOCTYPE > <!--Esto es lo que le dice al navegador que este es un archivo html-->
+
+
+<html lang="es"> <!--Aquí empieza el documento-->
+
+    <head> <!--Aquí empieza el header-->
+        <meta charset="utf-8"><!-- indica que tipo de abecedario estamos usando y el tipo de codificado-->
+        <title> Blog del mundo </title> <!--Aquí tenemos el título de la páginas, el que aparece en la pestaña del navegador-->
+
+    </head> <!--Aquí termina el header-->
+
+    <body> <!--Aquí es donde empieza la página web como tal-->
+
+        <h1> <!--Aquí se abre la etiqueta de título-->
+            El blog del mundo.   <!--Lo que ponga entre las dos etiquetas de título es el titúlo que va a aparecer en la página en sí-->
+        </h1> <!--Aquí se cierra la etiqueta de título-->  
+
+        <p><!--Esta etiqueta abre un parrafo-->
+            Texto de prueba   <!--Lo que ponga entre las dos etiquetas será el parrafo-->
+        </p><!--Esta etiqueta concluye el título-->
+
+    </body> <!--Esta etiqueta concluye el cuerpo de la página web-->
+
+</html> <!--Esta etiqueta nos dice que aquí acaba el documento-->
